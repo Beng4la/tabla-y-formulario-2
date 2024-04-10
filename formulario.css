@@ -1,0 +1,41 @@
+    <style>
+       
+    body{
+        font-family: 'Times New Roman', Times, serif;
+        background-color: #eae0e0;
+        padding: 20px;
+        }
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+            background-color: #6da5c0;
+            padding: 20px;
+            border-radius: 5px; 
+        }
+        input[type="text"], input[type="email"], input[type="tel"] 
+        {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #151313;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: rgb(17, 17, 17);
+            padding: 15px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        h2{
+            color: #ee2d10;
+            font-family: 'Times New Roman', Times, serif;
+
+        }
+       </style>

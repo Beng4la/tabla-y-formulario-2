@@ -1,0 +1,33 @@
+body{
+    background-color: #b19164;
+    color: #6da5c0;
+
+}
+table{
+    border-style: groove;
+    border-color: #05161a;
+    width: 1500px;
+    height: 60px;
+}
+td{
+    border-style: groove;
+    border-color: #412f26;
+    font-size: 1.5rem;
+    color: #806044;
+    background: #cbb89d;
+    font-family: 'Times New Roman', Times, serif;
+    width: 10px;
+    height: 5px;
+
+
+}
+.dos{
+    color:#143133;
+}
+.uno{
+    color: #c50606;
+}
+.tres{
+    background-color: #ede1d2;
+    font-size: 1.5rem;
+}
